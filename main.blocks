@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <variables></variables>
-  <block type="pxt-on-start" x="0" y="0"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="0#JL`t*j8xgO^2p`t#m)" x="0" y="0"><statement name="HANDLER"><block type="music_playable_play" id="zE$y?YasX^[4PF%WX*wn"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_string_playable" id="t((rL6:o*W9179tmT1k)"><value name="melody"><shadow type="melody_editor" id=".5|O|!n(Q@FrmkX7-bYw"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="_NcghWy)e,]@z,[X}:k["><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></shadow></value></block></statement></block></xml>
